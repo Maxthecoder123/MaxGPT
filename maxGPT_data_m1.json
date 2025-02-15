@@ -1,0 +1,44 @@
+{
+  "greeting": {
+    "input": ["hello", "hi", "hey", "sup", "greetings and salutations my kind sir", "hii", "hiii", "hiiii", "helloo", "ello there mate", "hi there", "hey there", "hello there", "hiya", "howdy", "howdy partner", "howdy there", "howdy mate", "howdy friend", "howdy pal", "howdy buddy", "howdy dude"],
+    "output": ["Hello, what are you up to?", "Hey, how are you doing?", "Hi, how can I help you?"]
+  },
+  "farewell": {
+    "input": ["bye", "goodbye", "see you later", "take care", "cya", "exit", "quit", "goodbye for now", "goodbye for today", "goodbye for tonight"],
+    "output": ["Goodbye, have a great day!", "See you later!", "Bye, take care!"]
+  },
+  "time": {
+    "input": ["time", "current time", "what's the time", "tell me the time", "what time is it", "what is the time"]
+  },
+  "confirmation": {
+    "input": ["yes", "yep", "yeah", "sure", "ok", "okay", "correct", "right", "great", "thanks", "ok thanks"],
+    "output": ["Great to hear!, if you need any help then just ask", "Awesome! Let me know if you need anything else", "Perfect!, let me know if you need help with anything else"]
+  },
+  "joke": {
+    "input": ["joke", "tell me a joke", "say something funny", "make me laugh", "tell a joke"],
+    "output": ["Why did the scarecrow win an award? Because he was outstanding in his field!", "What do you call a fish wearing a crown? A kingfish!", "Why couldn't the bicycle stand up by itself? It was two tired!", "What do you call a belt made out of watches? A waist of time!", "Why did the math book look sad? Because it had too many problems!"]
+  },
+  "food": {
+    "input": ["jelly", "jelly beans", "cheese", "banana", "carrot", "beans", "potato", "apple", "broccoli", "tomato", "peach", "burger", "fries", "chips", "cheeze", "cheese", "cheeseburger", "pasta", "spaghetti", "pizza", "cake", "ice cream", "chocolate", "candy", "candy cane", "candy corn", "candy bar", "candy apple", "candy floss", "bread", "butter", "jam", "salad", "soup", "food"],
+    "output": ["Yum! I love that food too!", "That sounds delicious"]
+  },
+  "spanish": {
+    "input": ["hola", "adios", "tiempo", "confirmar", "broma", "comida", "la idioma de espanol es muy carinoso"],
+    "output": ["Hola, como estas?", "Adios, que tengas un buen dia!", "La hora actual es", "Si, si, si!", "Por que la vaca cruzo la calle? Para llegar al otro lado!", "Me encanta la comida!"]
+  },
+  "randomLetters": {
+    "input": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "aa", "bb", "cc", "dd", "ee", "ff", "gg", "hh", "ii", "jj", "kk", "ll", "mm", "nn", "oo", "pp", "qq", "rr", "ss", "tt", "uu", "vv", "ww", "xx", "yy", "zz", "aaa", "bbb", "ccc", "ddd", "eee", "fff", "ggg", "hhh", "iii", "jjj", "kkk", "lll", "mmm", "nnn", "ooo", "ppp", "qqq", "rrr", "sss", "ttt", "uuu", "vvv", "www", "xxx", "yyy", "zzz"],
+    "output": ["Maybe just typing letters isnt good afterall!"]
+  },
+  "clearScreen": {
+    "input": ["cls", "cl", "c", "clear"]
+  },
+  "dumbQuestions": {
+    "input": ["how can i break this code", "are you kaiden???", "are you my friend?", "fwiend?"],
+    "output": ["No"]
+  },
+  "howAreYou": {
+    "input": ["how are you?", "how are you", "hoaw are aeaeaeae"],
+    "output": ["I'm very good, how about you!", "I am feeling amazing"]
+  }
+}
